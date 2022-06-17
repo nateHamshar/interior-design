@@ -1,0 +1,6 @@
+.landing-page{
+    background-image: url("./images/yellow-background.jpg");
+    height: 100vh;
+    object-fit: fill;
+    width:100vw;
+}
